@@ -27,6 +27,10 @@ Exemplo de execução:
 python download_thumbnail.py https://www.youtube.com/watch?v=XXXXXXXXXXX
 ```
 
+## 🔮 Futuro
+
+Estamos considerando implementar uma versão avançada do script que baixe automaticamente todas as versões da thumbnail (alta, média e baixa resolução) para fins de comparação, oferecendo mais opções e flexibilidade para os usuários.
+
 ## 📞 Contatos
 
 **Nome:** Rafael Lins  
